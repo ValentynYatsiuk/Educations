@@ -1,0 +1,7 @@
+C:\Users\Valik_Yatsyck\source\repos\Lab_6_Interface\Lab_6_Interface\bin\Debug\Lab_6_Interface.exe.config
+C:\Users\Valik_Yatsyck\source\repos\Lab_6_Interface\Lab_6_Interface\bin\Debug\Lab_6_Interface.exe
+C:\Users\Valik_Yatsyck\source\repos\Lab_6_Interface\Lab_6_Interface\bin\Debug\Lab_6_Interface.pdb
+C:\Users\Valik_Yatsyck\source\repos\Lab_6_Interface\Lab_6_Interface\obj\Debug\Lab_6_Interface.csprojResolveAssemblyReference.cache
+C:\Users\Valik_Yatsyck\source\repos\Lab_6_Interface\Lab_6_Interface\obj\Debug\Lab_6_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Valik_Yatsyck\source\repos\Lab_6_Interface\Lab_6_Interface\obj\Debug\Lab_6_Interface.exe
+C:\Users\Valik_Yatsyck\source\repos\Lab_6_Interface\Lab_6_Interface\obj\Debug\Lab_6_Interface.pdb
